@@ -1,26 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""
-This script will set IDv3 tag to Blue Archive JP BGM files converted to MP3 format
-Since Blue Archive JP's BGM is OGG format, you must transcode them into MP3 format first
-
-Usage:
-python <this script>.py [-i input_directory] [-d database_file]
-
-Requirements:
-  - Some Python packages
-      - eyed3
-        pip install eyed3
-      - python-magic-bin
-        pip install python-magic-bin
-  - Directory only contains transcoded BA JP BGM files
-    This script only process MP3 files. No OGG files!
-
-Note:
-  - I included unassigned tracks for later comvenience
-
-"""
-
 import json
 import os
 import argparse
@@ -29,7 +8,7 @@ from pathlib import Path
 
 # Do not use this script as module
 if __name__ != '__main__':
-    print('This script must run as main, not module!')
+    print('This script must run as main, not as module!')
     exit()
 
 # Change current working directory for scripting
@@ -56,7 +35,7 @@ parser = argparse.ArgumentParser()
 parser.description = 'Set IDv3 tags to MP3 files from database JSON file'
 parser.add_argument('-i', '--input', type=dir_path, default='mp3')
 parser.add_argument('-d', '--database', type=argparse.FileType('r',
-                    encoding='utf-8'), default='database.json')
+                    encoding='utf-8'), default='asset/database.json')
 
 # Parse arguments
 argument = parser.parse_args()
@@ -68,7 +47,7 @@ database = db['database']
 common = db['common']
 
 # Open Album Art file
-artfile = open('game_ost_album_art.webp', 'rb')
+artfile = open('asset/game_ost_album_art.webp', 'rb')
 art = artfile.read()
 
 # Process input directory files

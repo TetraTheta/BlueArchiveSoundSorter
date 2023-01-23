@@ -258,5 +258,9 @@ poetry.toml
 
 # End of https://www.toptal.com/developers/gitignore/api/python,intellij+all
 
-*.zip
 *.mp3
+*.ogg
+*.zip
+MediaPatch/
+mp3/
+output/

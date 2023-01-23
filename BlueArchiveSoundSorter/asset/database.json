@@ -1,4 +1,5 @@
 {
+  "_last_update": "2023.01.23",
   "common": {
     "album": "Blue Archive Game OST",
     "album_artist": "Blue Archive",
@@ -266,6 +267,13 @@
     },
     {
       "artist": "Nor",
+      "name_new": "034 Aoharu (Short)",
+      "name_old": "Theme_34_Short",
+      "title": "Aoharu (Short)",
+      "track": "034"
+    },
+    {
+      "artist": "Nor",
       "name_new": "034 Aoharu",
       "name_old": "Theme_34",
       "title": "Aoharu",
@@ -322,9 +330,9 @@
     },
     {
       "artist": "KARUT",
-      "name_new": "042 Glich Street",
+      "name_new": "042 Glitch Street",
       "name_old": "Theme_42",
-      "title": "Glich Street",
+      "title": "Glitch Street",
       "track": "042"
     },
     {
@@ -461,10 +469,10 @@
       "track": "058"
     },
     {
-      "artist": "",
-      "name_new": "059 Theme 59 (Unassigned)",
+      "artist": "Nor",
+      "name_new": "059 RE Aoharu",
       "name_old": "Theme_59",
-      "title": "Theme 59",
+      "title": "RE Aoharu",
       "track": "059"
     },
     {
@@ -520,7 +528,7 @@
       "artist": "KARUT",
       "name_new": "067 Someday, sometime",
       "name_old": "Theme_67",
-      "title": "\"Someday, sometime\"",
+      "title": "Someday, sometime",
       "track": "067"
     },
     {
@@ -699,10 +707,10 @@
       "track": "090"
     },
     {
-      "artist": "Mitsukiyo",
-      "name_new": "091 Theme 91",
+      "artist": "Nor",
+      "name_new": "091 FEEEEVER TIME",
       "name_old": "Theme_91",
-      "title": "Theme 91",
+      "title": "FEEEEVER TIME",
       "track": "091"
     },
     {
@@ -742,9 +750,9 @@
     },
     {
       "artist": "Mitsukiyo",
-      "name_new": "097 Blue new year",
+      "name_new": "097 Blue New Year",
       "name_old": "Theme_97",
-      "title": "Blue new year",
+      "title": "Blue New Year",
       "track": "097"
     },
     {
@@ -769,10 +777,10 @@
       "track": "100"
     },
     {
-      "artist": "",
-      "name_new": "101 Theme 101",
+      "artist": "KARUT",
+      "name_new": "101 NRG FielD",
       "name_old": "Theme_101",
-      "title": "Theme 101",
+      "title": "NRG FielD",
       "track": "101"
     },
     {
@@ -797,10 +805,10 @@
       "track": "104"
     },
     {
-      "artist": "",
-      "name_new": "105 Theme 105",
+      "artist": "Mitsukiyo",
+      "name_new": "105 Alkaline Tears",
       "name_old": "Theme_105",
-      "title": "Theme 105",
+      "title": "Alkaline Tears",
       "track": "105"
     },
     {
@@ -832,10 +840,10 @@
       "track": "109"
     },
     {
-      "artist": "",
-      "name_new": "110 Theme 110",
+      "artist": "KARUT",
+      "name_new": "110 Codex of Omen",
       "name_old": "Theme_110",
-      "title": "Theme 110",
+      "title": "Codex of Omen",
       "track": "110"
     },
     {
@@ -895,17 +903,17 @@
       "track": "118"
     },
     {
-      "artist": "",
-      "name_new": "119 Theme 119",
+      "artist": "KARUT",
+      "name_new": "119 Blood Stained Faith",
       "name_old": "Theme_119",
-      "title": "Theme 119",
+      "title": "Blood Stained Faith",
       "track": "119"
     },
     {
       "artist": "Mitsukiyo",
-      "name_new": "120 Theme 120",
+      "name_new": "120 DIVE INTO SUMMER",
       "name_old": "Theme_120",
-      "title": "Theme 120",
+      "title": "DIVE INTO SUMMER",
       "track": "120"
     },
     {
@@ -937,17 +945,17 @@
       "track": "124"
     },
     {
-      "artist": "",
-      "name_new": "125 Theme 125 (Blank)",
+      "artist": "Mitsukiyo",
+      "name_new": "125 Kaphar (Blank)",
       "name_old": "Theme_125_Blank",
-      "title": "Theme 125 (Blank)",
+      "title": "Kaphar (Blank)",
       "track": "125"
     },
     {
-      "artist": "",
-      "name_new": "125 Theme 125",
+      "artist": "Mitsukiyo",
+      "name_new": "125 Kaphar",
       "name_old": "Theme_125",
-      "title": "Theme 125",
+      "title": "Kaphar",
       "track": "125"
     },
     {
@@ -966,9 +974,9 @@
     },
     {
       "artist": "KARUT",
-      "name_new": "128 Theme 128",
+      "name_new": "128 After School Dessert",
       "name_old": "Theme_128",
-      "title": "Theme 128",
+      "title": "After School Dessert",
       "track": "128"
     },
     {
@@ -1022,16 +1030,16 @@
     },
     {
       "artist": "",
-      "name_new": "136 Theme 136 (Short)",
+      "name_new": "136 Kyrie Eleison (Short)",
       "name_old": "Theme_136_Short",
-      "title": "Theme 136 (Short)",
+      "title": "Kyrie Eleison (Short)",
       "track": "136"
     },
     {
       "artist": "",
-      "name_new": "136 Theme 136",
+      "name_new": "136 Kyrie Eleison",
       "name_old": "Theme_136",
-      "title": "Theme 136",
+      "title": "Kyrie Eleison",
       "track": "136"
     },
     {
@@ -1071,7 +1079,14 @@
     },
     {
       "artist": "",
-      "name_new": "142 Theme 142 (Unassigned)",
+      "name_new": "142 Theme 142 (Short)",
+      "name_old": "Theme_142_Short",
+      "title": "Theme 142 (Short)",
+      "track": "142"
+    },
+    {
+      "artist": "",
+      "name_new": "142 Theme 142",
       "name_old": "Theme_142",
       "title": "Theme 142",
       "track": "142"
@@ -1082,6 +1097,55 @@
       "name_old": "Theme_143",
       "title": "Theme 143",
       "track": "143"
+    },
+    {
+      "artist": "",
+      "name_new": "144 Theme 144 (Unassigned)",
+      "name_old": "Theme_144",
+      "title": "Theme 144",
+      "track": "144"
+    },
+    {
+      "artist": "",
+      "name_new": "145 Theme 145 (Unassigned)",
+      "name_old": "Theme_145",
+      "title": "Theme 145",
+      "track": "145"
+    },
+    {
+      "artist": "",
+      "name_new": "146 Theme 146 (Unassigned)",
+      "name_old": "Theme_146",
+      "title": "Theme 146",
+      "track": "146"
+    },
+    {
+      "artist": "",
+      "name_new": "147 Theme 147 (Unassigned)",
+      "name_old": "Theme_147",
+      "title": "Theme 147",
+      "track": "147"
+    },
+    {
+      "artist": "",
+      "name_new": "148 Theme 148 (Unassigned)",
+      "name_old": "Theme_148",
+      "title": "Theme 148",
+      "track": "148"
+    },
+    {
+      "artist": "",
+      "name_new": "149 Theme 149 (Unassigned)",
+      "name_old": "Theme_149",
+      "title": "Theme 149",
+      "track": "149"
+    },
+    {
+      "artist": "",
+      "name_new": "150 Theme 150 (Unassigned)",
+      "name_old": "Theme_150",
+      "title": "Theme 150",
+      "track": "150"
     }
   ]
 }

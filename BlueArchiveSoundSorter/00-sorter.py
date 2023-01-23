@@ -1,41 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""
-This script compares Blue Archive JP's media files in MediaPatch directory
-with MediaCatalog.json file via their file size
-and copy them to target directory with renamed file names
-
-Since I couldn't understand what CRC means in MediaCatalog.json, this is only way to get files sorted
-
-Usage:
-python bgm_jp_sorter.py [-i input_directory] [-o output_directory] [-c catalog_file] [-t should_process_theme_file_only]
-
-Requirements:
-  - MediaPatch directory from Blue Archive JP
-	You can get Android/data/com.YostarJP.BlueArchive/files/MediaPatch
-  - Edited MediaCatalog.json
-	Unless you want to sort all of those assets, it is advised to cleanup that file first
-	If you don't, whole process time will increase a lot!
-
-Note:
-  - These files are inside APK file, not MediaPatch directory
-	It is advised to extract them from BA KR APK, not JP APK because they are encrypted too
-	  - Theme 01
-	  - Theme 08
-	  - Theme 09
-	  - Theme 11
-	  - Theme 12
-	  - Theme 18
-	  - Theme 23
-	  - Theme 29
-	  - Theme 31
-	  - Theme 32
-	  - Theme 34
-	  - Theme 40
-	  - Theme 41
-
-"""
-
 import json
 import shutil
 import argparse
@@ -44,8 +8,8 @@ from pathlib import Path
 
 # Do not use this script as module
 if __name__ != '__main__':
-    print('This script must run as main, not module!')
-    exit()
+    print('This script must run as main, not as module!')
+    exit(1)
 
 
 # Change current working directory for scripting
@@ -80,7 +44,7 @@ def str2bool(string: str):
 def is_json(obj):
     try:
         json_object = json.loads(obj)
-        iterator = iter(json_object)
+        iter(json_object)
     except Exception as e:
         return False
     return True
@@ -90,12 +54,12 @@ def is_json(obj):
 parser = argparse.ArgumentParser()
 parser.description = 'Copy files listed in MediaCatalog.json to output directory with renaming them'
 parser.add_argument('-i', '--input', type=dir_path,
-                    default='source')
+                    default='MediaPatch')
 parser.add_argument('-o', '--output', type=dir_path,
-                    default='target')
+                    default='output')
 parser.add_argument('-c', '--catalog', type=argparse.FileType('r', encoding='utf-8'),
-                    default='MediaCatalog.json')
-parser.add_argument('-t', '--only-theme', type=str2bool, default=False)
+                    default='MediaPatch/MediaCatalog.json')
+parser.add_argument('-t', '--theme-only', type=str2bool, default=True)
 
 # Parse arguments
 argument = parser.parse_args()
@@ -107,8 +71,12 @@ argument = parser.parse_args()
 #	raise ValueError('Given MediaCatalog.json file is not JSON')
 catalog = json.load(argument.catalog)
 
+# Print notice
+print("This will take a while... Please wait...")
+
 # Process source directory
 input_dict = dict()
+noticed = dict()
 for filename in argument.input.glob('*'):
     if filename.name.endswith('.dat') or filename.name.endswith('.hash') or filename.name.endswith('.json'):
         continue
@@ -117,12 +85,12 @@ for filename in argument.input.glob('*'):
 for dict_key, dict_value in input_dict.items():
     for catalog_item in catalog['Table'].values():
         # Skip non-Theme files when '--only-theme' flag is set to True
-        # TODO: Skip items which is set 'isInBuild' while iterating
         if argument.only_theme and not catalog_item['path'].startswith('Audio/BGM'):
             continue
-        if catalog_item['isInbuild'] == True:
+        if catalog_item['isInbuild'] == True and not catalog_item['fileName'] in noticed:
             print(
                 f"WARNING: {catalog_item['fileName']} is not in MediaPatch directory! Extract it from APK.")
+            noticed[catalog_item['fileName']] = True
             continue
         if int(dict_value) == int(catalog_item['bytes']):
             shutil.copy(dict_key, Path(argument.output).absolute() /
@@ -131,3 +99,6 @@ for dict_key, dict_value in input_dict.items():
 
 # Close MediaCatalog.json file for safety
 argument.catalog.close()
+
+# Print notice
+print("Job done.")

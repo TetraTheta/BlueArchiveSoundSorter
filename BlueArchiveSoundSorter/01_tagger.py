@@ -1,10 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+import argparse
 import json
 import os
-import argparse
-import eyed3
 from pathlib import Path
+
+import eyed3
 
 # Do not use this script as module
 if __name__ != '__main__':
@@ -15,8 +16,6 @@ if __name__ != '__main__':
 os.chdir(Path(__file__).resolve().parent)
 
 # Define argument-related method first
-
-
 def dir_path(string: str):
     if isinstance(string, str):
         given_path = Path(string)
@@ -33,9 +32,8 @@ def dir_path(string: str):
 # Define arguments
 parser = argparse.ArgumentParser()
 parser.description = 'Set IDv3 tags to MP3 files from database JSON file'
-parser.add_argument('-i', '--input', type=dir_path, default='mp3')
-parser.add_argument('-d', '--database', type=argparse.FileType('r',
-                    encoding='utf-8'), default='asset/database.json')
+parser.add_argument('-i', '--input', dest="input", type=dir_path, default='mp3')
+parser.add_argument('-d', '--database', dest="database", type=argparse.FileType('r', encoding='utf-8'), default='asset/database.json')
 
 # Parse arguments
 argument = parser.parse_args()

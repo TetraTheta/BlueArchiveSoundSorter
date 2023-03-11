@@ -53,13 +53,10 @@ def is_json(obj):
 # Define arguments
 parser = argparse.ArgumentParser()
 parser.description = 'Copy files listed in MediaCatalog.json to output directory with renaming them'
-parser.add_argument('-i', '--input', type=dir_path,
-                    default='MediaPatch')
-parser.add_argument('-o', '--output', type=dir_path,
-                    default='output')
-parser.add_argument('-c', '--catalog', type=argparse.FileType('r', encoding='utf-8'),
-                    default='MediaPatch/MediaCatalog.json')
-parser.add_argument('-t', '--theme-only', type=str2bool, default=True)
+parser.add_argument('-i', '--input', dest="input", type=dir_path, default='MediaPatch')
+parser.add_argument('-o', '--output', dest="output", type=dir_path, default='output')
+parser.add_argument('-c', '--catalog', dest="catalog", type=argparse.FileType('r', encoding='utf-8'), default='MediaPatch/MediaCatalog.json')
+parser.add_argument('-t', '--theme-only', dest="theme_only", type=str2bool, default=True)
 
 # Parse arguments
 argument = parser.parse_args()
@@ -85,7 +82,7 @@ for filename in argument.input.glob('*'):
 for dict_key, dict_value in input_dict.items():
     for catalog_item in catalog['Table'].values():
         # Skip non-Theme files when '--only-theme' flag is set to True
-        if argument.only_theme and not catalog_item['path'].startswith('Audio/BGM'):
+        if argument.theme_only and not catalog_item['path'].startswith('Audio/BGM'):
             continue
         if catalog_item['isInbuild'] == True and not catalog_item['fileName'] in noticed:
             print(

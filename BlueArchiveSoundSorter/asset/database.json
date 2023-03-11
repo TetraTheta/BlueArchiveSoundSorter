@@ -1,11 +1,18 @@
 {
-  "_last_update": "2023.01.23",
+  "_last_update": "2023.03.11",
   "common": {
     "album": "Blue Archive Game OST",
     "album_artist": "Blue Archive",
     "year": "2022"
   },
   "database": [
+    {
+      "artist": "Mitsukiyo",
+      "name_new": "999 優しさの記憶",
+      "name_old": "104000_ED_Sound.ogg",
+      "title": "優しさの記憶",
+      "track": "999"
+    },
     {
       "artist": "Mitsukiyo",
       "name_new": "001 Constant Moderato",
@@ -467,6 +474,20 @@
       "name_old": "Theme_58",
       "title": "SAKURA PUNCH",
       "track": "058"
+    },
+    {
+      "artist": "Nor",
+      "name_new": "059 RE Aoharu (Short)",
+      "name_old": "Theme_59_Short",
+      "title": "RE Aoharu (Short)",
+      "track": "059"
+    },
+    {
+      "artist": "Nor",
+      "name_new": "059 RE Aoharu (Title)",
+      "name_old": "Theme_59_Title",
+      "title": "RE Aoharu (Title)",
+      "track": "059"
     },
     {
       "artist": "Nor",
@@ -1127,25 +1148,242 @@
       "track": "147"
     },
     {
-      "artist": "",
-      "name_new": "148 Theme 148 (Unassigned)",
+      "artist": "Nor",
+      "name_new": "148 Theme 148",
       "name_old": "Theme_148",
       "title": "Theme 148",
       "track": "148"
     },
     {
       "artist": "",
-      "name_new": "149 Theme 149 (Unassigned)",
+      "name_new": "149 Theme 149",
       "name_old": "Theme_149",
       "title": "Theme 149",
       "track": "149"
     },
     {
-      "artist": "",
-      "name_new": "150 Theme 150 (Unassigned)",
+      "artist": "KARUT",
+      "name_new": "150 Theme 150",
       "name_old": "Theme_150",
       "title": "Theme 150",
       "track": "150"
+    },
+    {
+      "artist": "",
+      "name_new": "151 Theme 151 (Short)",
+      "name_old": "Theme_151_Short",
+      "title": "Theme 151 (Short)",
+      "track": "151"
+    },
+    {
+      "artist": "",
+      "name_new": "151 Theme 151 (VeryShort)",
+      "name_old": "Theme_151_VeryShort",
+      "title": "Theme 151 (VeryShort)",
+      "track": "151"
+    },
+    {
+      "artist": "",
+      "name_new": "151 Theme 151",
+      "name_old": "Theme_151",
+      "title": "Theme 151",
+      "track": "151"
+    },
+    {
+      "artist": "",
+      "name_new": "152 Theme 152",
+      "name_old": "Theme_152",
+      "title": "Theme 152",
+      "track": "152"
+    },
+    {
+      "artist": "",
+      "name_new": "153 Theme 153 (Unassigned)",
+      "name_old": "Theme_153",
+      "title": "Theme 153",
+      "track": "153"
+    },
+    {
+      "artist": "",
+      "name_new": "154 Theme 154 (Unassigned)",
+      "name_old": "Theme_154",
+      "title": "Theme 154",
+      "track": "154"
+    },
+    {
+      "artist": "",
+      "name_new": "155 Theme 155",
+      "name_old": "Theme_155",
+      "title": "Theme 155",
+      "track": "155"
+    },
+    {
+      "artist": "",
+      "name_new": "156 Theme 156",
+      "name_old": "Theme_156",
+      "title": "Theme 156",
+      "track": "156"
+    },
+    {
+      "artist": "",
+      "name_new": "157 Theme 157",
+      "name_old": "Theme_157",
+      "title": "Theme 157",
+      "track": "158"
+    },
+    {
+      "artist": "",
+      "name_new": "158 Theme 158 (Unassigned)",
+      "name_old": "Theme_158",
+      "title": "Theme 158",
+      "track": "158"
+    },
+    {
+      "artist": "",
+      "name_new": "159 Theme 159 (Unassigned)",
+      "name_old": "Theme_159",
+      "title": "Theme 159",
+      "track": "159"
+    },
+    {
+      "artist": "",
+      "name_new": "160 Theme 160 (Unassigned)",
+      "name_old": "Theme_160",
+      "title": "Theme 160",
+      "track": "160"
+    },
+    {
+      "artist": "",
+      "name_new": "161 Theme 161 (Unassigned)",
+      "name_old": "Theme_161",
+      "title": "Theme 161",
+      "track": "161"
+    },
+    {
+      "artist": "",
+      "name_new": "162 Theme 162",
+      "name_old": "Theme_162",
+      "title": "Theme 162",
+      "track": "162"
+    },
+    {
+      "artist": "",
+      "name_new": "163 Theme 163 (Unassigned)",
+      "name_old": "Theme_163",
+      "title": "Theme 163",
+      "track": "163"
+    },
+    {
+      "artist": "",
+      "name_new": "164 Theme 164 (Unassigned)",
+      "name_old": "Theme_164",
+      "title": "Theme 164",
+      "track": "164"
+    },
+    {
+      "artist": "",
+      "name_new": "165 Theme 165 (Unassigned)",
+      "name_old": "Theme_165",
+      "title": "Theme 165",
+      "track": "165"
+    },
+    {
+      "artist": "",
+      "name_new": "166 Theme 166 (Unassigned)",
+      "name_old": "Theme_166",
+      "title": "Theme 166",
+      "track": "166"
+    },
+    {
+      "artist": "",
+      "name_new": "167 Theme 167 (Unassigned)",
+      "name_old": "Theme_167",
+      "title": "Theme 167",
+      "track": "167"
+    },
+    {
+      "artist": "",
+      "name_new": "168 Theme 168 (Unassigned)",
+      "name_old": "Theme_168",
+      "title": "Theme 168",
+      "track": "168"
+    },
+    {
+      "artist": "",
+      "name_new": "169 Theme 169 (Unassigned)",
+      "name_old": "Theme_169",
+      "title": "Theme 169",
+      "track": "169"
+    },
+    {
+      "artist": "",
+      "name_new": "170 Theme 170 (Unassigned)",
+      "name_old": "Theme_170",
+      "title": "Theme 170",
+      "track": "170"
+    },
+    {
+      "artist": "",
+      "name_new": "171 Theme 171 (Unassigned)",
+      "name_old": "Theme_171",
+      "title": "Theme 171",
+      "track": "171"
+    },
+    {
+      "artist": "",
+      "name_new": "172 Theme 172 (Unassigned)",
+      "name_old": "Theme_172",
+      "title": "Theme 172",
+      "track": "172"
+    },
+    {
+      "artist": "",
+      "name_new": "173 Theme 173 (Unassigned)",
+      "name_old": "Theme_173",
+      "title": "Theme 173",
+      "track": "173"
+    },
+    {
+      "artist": "",
+      "name_new": "174 Theme 174 (Unassigned)",
+      "name_old": "Theme_174",
+      "title": "Theme 174",
+      "track": "174"
+    },
+    {
+      "artist": "",
+      "name_new": "175 Theme 175 (Unassigned)",
+      "name_old": "Theme_175",
+      "title": "Theme 175",
+      "track": "175"
+    },
+    {
+      "artist": "",
+      "name_new": "176 Theme 176 (Unassigned)",
+      "name_old": "Theme_176",
+      "title": "Theme 176",
+      "track": "176"
+    },
+    {
+      "artist": "",
+      "name_new": "177 Theme 177 (Unassigned)",
+      "name_old": "Theme_177",
+      "title": "Theme 177",
+      "track": "177"
+    },
+    {
+      "artist": "",
+      "name_new": "178 Theme 178 (Unassigned)",
+      "name_old": "Theme_178",
+      "title": "Theme 178",
+      "track": "178"
+    },
+    {
+      "artist": "",
+      "name_new": "179 Theme 179 (Unassigned)",
+      "name_old": "Theme_179",
+      "title": "Theme 179",
+      "track": "179"
     }
   ]
 }

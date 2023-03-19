@@ -8,10 +8,10 @@
   "database": [
     {
       "artist": "Mitsukiyo",
-      "name_new": "999 優しさの記憶",
+      "name_new": "優しさの記憶",
       "name_old": "104000_ED_Sound.ogg",
       "title": "優しさの記憶",
-      "track": "999"
+      "track": ""
     },
     {
       "artist": "Mitsukiyo",
@@ -960,9 +960,9 @@
     },
     {
       "artist": "Mitsukiyo",
-      "name_new": "124 Theme 124",
+      "name_new": "124 TOMODACHI SUMMER",
       "name_old": "Theme_124",
-      "title": "Theme 124",
+      "title": "TOMODACHI SUMMER",
       "track": "124"
     },
     {
@@ -1190,7 +1190,7 @@
       "track": "151"
     },
     {
-      "artist": "",
+      "artist": "Nor",
       "name_new": "152 Theme 152",
       "name_old": "Theme_152",
       "title": "Theme 152",
@@ -1260,10 +1260,10 @@
       "track": "161"
     },
     {
-      "artist": "",
-      "name_new": "162 Theme 162",
+      "artist": "Mitsukiyo",
+      "name_new": "162 Welcome School",
       "name_old": "Theme_162",
-      "title": "Theme 162",
+      "title": "Welcome School",
       "track": "162"
     },
     {

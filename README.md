@@ -37,20 +37,22 @@ BlueArchiveSoundSorter.
 The following BGM files are not included in the MediaPatch directory:  
 Therefore, the files below must be extracted from inside the APK or obtained in another way.
 
-* Theme 001
-* Theme 008
-* Theme 009
-* Theme 011
-* Theme 012
-* Theme 018
-* Theme 023
-* Theme 029
-* Theme 031
-* Theme 032
-* Theme 034
-* Theme 040
-* Theme 041
-* Theme 042
+* Theme 001 (`Theme_01.ogg`)
+* Theme 008 (`Theme_08.ogg`)
+* Theme 009 (`Theme_09.ogg`)
+* Theme 011 (`Theme_11.ogg`)
+* Theme 012 (`Theme_12.ogg`)
+* Theme 018 (`Theme_18.ogg`)
+* Theme 023 (`Theme_23.ogg`)
+* Theme 029 (`Theme_29.ogg`)
+* Theme 031 (`Theme_31.ogg`)
+* Theme 032 (`Theme_32.ogg`)
+* Theme 034 (`Theme_34.ogg`)
+* Theme 040 (`Theme_40.ogg`)
+* Theme 041 (`Theme_41.ogg`)
+* Theme 042 (`Theme_42.ogg`)
+* Theme 059 (`Theme_59_Title.ogg`)
+* Theme 154 (`Theme_154_Title.ogg`)
 
 ## MP3 IDv3 Tagger
 

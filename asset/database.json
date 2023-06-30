@@ -1,5 +1,5 @@
 {
-  "_last_update": "2023.03.11",
+  "_last_update": "2023.06.30",
   "common": {
     "album": "Blue Archive Game OST",
     "album_artist": "Blue Archive",
@@ -180,6 +180,13 @@
       "name_old": "Theme_23",
       "title": "Party time",
       "track": "023"
+    },
+    {
+      "artist": "Mitsukiyo",
+      "name_new": "024 Endless Carnival (8-Bit Arrange)",
+      "name_old": "Theme_24_8bit",
+      "title": "Endless Carnival (8-Bit Arrange)",
+      "track": "024"
     },
     {
       "artist": "Mitsukiyo",
@@ -561,9 +568,9 @@
     },
     {
       "artist": "Mitsukiyo",
-      "name_new": "069 Snow pantomime",
+      "name_new": "069 Snow Pantomime",
       "name_old": "Theme_69",
-      "title": "Snow pantomime",
+      "title": "Snow Pantomime",
       "track": "069"
     },
     {
@@ -673,6 +680,13 @@
     },
     {
       "artist": "KARUT",
+      "name_new": "085 Library of Omen (8-Bit Arrange)",
+      "name_old": "Theme_85_8bit",
+      "title": "Library of Omen (8-Bit Arrange)",
+      "track": "085"
+    },
+    {
+      "artist": "KARUT",
       "name_new": "085 Library of Omen (Chorus)",
       "name_old": "Theme_85_Chorus",
       "title": "Library of Omen (Chorus)",
@@ -700,10 +714,10 @@
       "track": "086"
     },
     {
-      "artist": "",
-      "name_new": "087 Theme 87",
+      "artist": "Mitsukiyo",
+      "name_new": "087 Constant Moderato (Piano Arrange)",
       "name_old": "Theme_87",
-      "title": "Theme 87",
+      "title": "Constant Moderato (Piano Arrange)",
       "track": "087"
     },
     {
@@ -771,9 +785,9 @@
     },
     {
       "artist": "Mitsukiyo",
-      "name_new": "097 Blue New Year",
+      "name_new": "097 Blue New Year!",
       "name_old": "Theme_97",
-      "title": "Blue New Year",
+      "title": "Blue New Year!",
       "track": "097"
     },
     {
@@ -805,7 +819,7 @@
       "track": "101"
     },
     {
-      "artist": "",
+      "artist": "Mitsukiyo",
       "name_new": "102 GIVE ME CHOCO\u2661",
       "name_old": "Theme_102",
       "title": "GIVE ME CHOCO\u2661",
@@ -890,9 +904,16 @@
     },
     {
       "artist": "",
-      "name_new": "114 Theme 114",
+      "name_new": "114 Unwelcome Guest (8-Bit Arrange)",
+      "name_old": "Theme_114_8bit",
+      "title": "Unwelcome Guest (8-Bit Arrange)",
+      "track": "114"
+    },
+    {
+      "artist": "",
+      "name_new": "114 Unwelcome Guest",
       "name_old": "Theme_114",
-      "title": "Theme 114",
+      "title": "Unwelcome Guest",
       "track": "114"
     },
     {
@@ -1016,13 +1037,13 @@
     },
     {
       "artist": "KARUT",
-      "name_new": "131 Theme 131",
+      "name_new": "131 Shooting Athletes",
       "name_old": "Theme_131",
-      "title": "Theme 131",
+      "title": "Shooting Athletes",
       "track": "131"
     },
     {
-      "artist": "",
+      "artist": "KARUT",
       "name_new": "132 Theme 132",
       "name_old": "Theme_132",
       "title": "Theme 134",
@@ -1030,9 +1051,9 @@
     },
     {
       "artist": "KARUT",
-      "name_new": "133 Theme 133",
+      "name_new": "133 Goal Wo Nerae!",
       "name_old": "Theme_133",
-      "title": "Theme 133",
+      "title": "Goal Wo Nerae!",
       "track": "133"
     },
     {
@@ -1050,14 +1071,14 @@
       "track": "135"
     },
     {
-      "artist": "",
+      "artist": "Mitsukiyo",
       "name_new": "136 Kyrie Eleison (Short)",
       "name_old": "Theme_136_Short",
       "title": "Kyrie Eleison (Short)",
       "track": "136"
     },
     {
-      "artist": "",
+      "artist": "Mitsukiyo",
       "name_new": "136 Kyrie Eleison",
       "name_old": "Theme_136",
       "title": "Kyrie Eleison",
@@ -1079,9 +1100,9 @@
     },
     {
       "artist": "Mitsukiyo",
-      "name_new": "139 Theme 139",
+      "name_new": "139 Cherry Berry Merry",
       "name_old": "Theme_139",
-      "title": "Theme 139",
+      "title": "Cherry Berry Merry",
       "track": "139"
     },
     {
@@ -1093,9 +1114,9 @@
     },
     {
       "artist": "Nor",
-      "name_new": "141 Theme 141",
+      "name_new": "141 Tasty New Year",
       "name_old": "Theme_141",
-      "title": "Theme 141",
+      "title": "Tasty New Year",
       "track": "141"
     },
     {
@@ -1204,24 +1225,24 @@
       "track": "153"
     },
     {
-      "artist": "",
-      "name_new": "154 Theme 154 (Unassigned)",
-      "name_old": "Theme_154",
+      "artist": "Mitsukiyo",
+      "name_new": "154 Theme 154",
+      "name_old": "Theme_154_Title",
       "title": "Theme 154",
       "track": "154"
     },
     {
-      "artist": "",
-      "name_new": "155 Theme 155",
+      "artist": "Nor",
+      "name_new": "155 Responsibility",
       "name_old": "Theme_155",
-      "title": "Theme 155",
+      "title": "Responsibility",
       "track": "155"
     },
     {
-      "artist": "",
-      "name_new": "156 Theme 156",
+      "artist": "KARUT",
+      "name_new": "156 Final Destination of Ark",
       "name_old": "Theme_156",
-      "title": "Theme 156",
+      "title": "Final Destination of Ark",
       "track": "156"
     },
     {
@@ -1239,22 +1260,22 @@
       "track": "158"
     },
     {
-      "artist": "",
-      "name_new": "159 Theme 159 (Unassigned)",
+      "artist": "Mitsukiyo",
+      "name_new": "159 Theme 159",
       "name_old": "Theme_159",
       "title": "Theme 159",
       "track": "159"
     },
     {
       "artist": "",
-      "name_new": "160 Theme 160 (Unassigned)",
+      "name_new": "160 Theme 160",
       "name_old": "Theme_160",
       "title": "Theme 160",
       "track": "160"
     },
     {
-      "artist": "",
-      "name_new": "161 Theme 161 (Unassigned)",
+      "artist": "KARUT",
+      "name_new": "161 Theme 161",
       "name_old": "Theme_161",
       "title": "Theme 161",
       "track": "161"
@@ -1268,21 +1289,21 @@
     },
     {
       "artist": "",
-      "name_new": "163 Theme 163 (Unassigned)",
+      "name_new": "163 Theme 163",
       "name_old": "Theme_163",
       "title": "Theme 163",
       "track": "163"
     },
     {
       "artist": "",
-      "name_new": "164 Theme 164 (Unassigned)",
+      "name_new": "164 Theme 164",
       "name_old": "Theme_164",
       "title": "Theme 164",
       "track": "164"
     },
     {
-      "artist": "",
-      "name_new": "165 Theme 165 (Unassigned)",
+      "artist": "Nor",
+      "name_new": "165 Theme 165",
       "name_old": "Theme_165",
       "title": "Theme 165",
       "track": "165"
@@ -1317,21 +1338,21 @@
     },
     {
       "artist": "",
-      "name_new": "170 Theme 170 (Unassigned)",
+      "name_new": "170 Theme 170",
       "name_old": "Theme_170",
       "title": "Theme 170",
       "track": "170"
     },
     {
-      "artist": "",
-      "name_new": "171 Theme 171 (Unassigned)",
+      "artist": "KARUT",
+      "name_new": "171 Theme 171",
       "name_old": "Theme_171",
       "title": "Theme 171",
       "track": "171"
     },
     {
-      "artist": "",
-      "name_new": "172 Theme 172 (Unassigned)",
+      "artist": "KARUT",
+      "name_new": "172 Theme 172",
       "name_old": "Theme_172",
       "title": "Theme 172",
       "track": "172"

@@ -1254,7 +1254,28 @@
     },
     {
       "artist": "",
-      "name_new": "158 Theme 158 (Unassigned)",
+      "name_new": "158 Theme 158 (Chorus)",
+      "name_old": "Theme_158_Chorus",
+      "title": "Theme 158 (Chorus)",
+      "track": "158"
+    },
+    {
+      "artist": "",
+      "name_new": "158 Theme 158 (Intro)",
+      "name_old": "Theme_158_Intro",
+      "title": "Theme 158 (Intro)",
+      "track": "158"
+    },
+    {
+      "artist": "",
+      "name_new": "158 Theme 158 (Verse)",
+      "name_old": "Theme_158_Verse",
+      "title": "Theme 158 (Verse)",
+      "track": "158"
+    },
+    {
+      "artist": "",
+      "name_new": "158 Theme 158",
       "name_old": "Theme_158",
       "title": "Theme 158",
       "track": "158"

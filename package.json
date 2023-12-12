@@ -1,0 +1,31 @@
+{
+  "name": "blue-archive-sound-sorter",
+  "version": "1.0.0",
+  "description": "Extract BGM files from MediaPatch directory of Blue Archive JP",
+  "main": "index.js",
+  "scripts": {
+    "sort": "./index.js sort",
+    "tag": "./index.js tag"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TetraTheta/BlueArchiveSoundSorter.git"
+  },
+  "keywords": [
+    "blue-archive"
+  ],
+  "author": "TetraTheta",
+  "license": "UNLICENSED",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/TetraTheta/BlueArchiveSoundSorter/issues"
+  },
+  "homepage": "https://github.com/TetraTheta/BlueArchiveSoundSorter#readme",
+  "devDependencies": {
+    "eslint": "^8.55.0"
+  },
+  "dependencies": {
+    "commander": "^11.1.0",
+    "node-id3": "^0.2.6"
+  }
+}

@@ -1,2 +1,0 @@
-eyed3
-python-magic-bin

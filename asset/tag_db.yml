@@ -1,0 +1,1186 @@
+_last_update: '2023.12.11'
+common:
+  album: Blue Archive Game OST
+  album_artist: Blue Archive
+  year: 2022
+database:
+  - artist: Mitsukiyo
+    name_new: 優しさの記憶
+    name_old: 104000_ED_Sound.ogg
+    title: 優しさの記憶
+    track: 0
+  - artist: Mitsukiyo
+    name_new: 001 Constant Moderato
+    name_old: Theme_01
+    title: Constant Moderato
+    track: 1
+  - artist: Mitsukiyo
+    name_new: 002 Luminous memory
+    name_old: Theme_02
+    title: Luminous memory
+    track: 2
+  - artist: Mitsukiyo
+    name_new: 003 Mischievous Step
+    name_old: Theme_03
+    title: Mischievous Step
+    track: 3
+  - artist: Mitsukiyo
+    name_new: 004 Lovely Picnic
+    name_old: Theme_04
+    title: Lovely Picnic
+    track: 4
+  - artist: KARUT
+    name_new: 005 Colorful Mess
+    name_old: Theme_05
+    title: Colorful Mess
+    track: 5
+  - artist: KARUT
+    name_new: 006 Funky Road
+    name_old: Theme_06
+    title: Funky Road
+    track: 6
+  - artist: Mitsukiyo
+    name_new: 007 Unwelcome School
+    name_old: Theme_07
+    title: Unwelcome School
+    track: 7
+  - artist: Mitsukiyo
+    name_new: 008 Shady Girls
+    name_old: Theme_08
+    title: Shady Girls
+    track: 8
+  - artist: Mitsukiyo
+    name_new: 009 Midsummer cat
+    name_old: Theme_09
+    title: Midsummer cat
+    track: 9
+  - artist: Mitsukiyo
+    name_new: 010 Romantic Smile
+    name_old: Theme_10
+    title: Romantic Smile
+    track: 10
+  - artist: KARUT
+    name_new: 011 Connected Sky
+    name_old: Theme_11
+    title: Connected Sky
+    track: 11
+  - artist: KARUT
+    name_new: 012 Shooting Stars
+    name_old: Theme_12
+    title: Shooting Stars
+    track: 12
+  - artist: KARUT
+    name_new: 013 Barrier
+    name_old: Theme_13
+    title: Barrier
+    track: 13
+  - artist: KARUT
+    name_new: 014 Step by Step
+    name_old: Theme_14
+    title: Step by Step
+    track: 14
+  - artist: Mitsukiyo
+    name_new: 015 Honey Jam
+    name_old: Theme_15
+    title: Honey Jam
+    track: 15
+  - artist: Mitsukiyo
+    name_new: 016 MX Adventure
+    name_old: Theme_16
+    title: MX Adventure
+    track: 16
+  - artist: Mitsukiyo
+    name_new: 017 Irasshaimase
+    name_old: Theme_17
+    title: Irasshaimase
+    track: 17
+  - artist: KARUT
+    name_new: 018 Mechanical JUNGLE
+    name_old: Theme_18
+    title: Mechanical JUNGLE
+    track: 18
+  - artist: KARUT
+    name_new: 019 Virtual Storm
+    name_old: Theme_19
+    title: Virtual Storm
+    track: 19
+  - artist: KARUT
+    name_new: 020 Tech N Tech
+    name_old: Theme_20
+    title: Tech N Tech
+    track: 20
+  - artist: Nor
+    name_new: 021 Midnight Trip (Short)
+    name_old: Theme_21_Blank
+    title: Midnight Trip (Short)
+    track: 21
+  - artist: Nor
+    name_new: 021 Midnight Trip
+    name_old: Theme_21
+    title: Midnight Trip
+    track: 21
+  - artist: Nor
+    name_new: 022 Daily Routine 247
+    name_old: Theme_22
+    title: Daily Routine 247
+    track: 22
+  - artist: Mitsukiyo
+    name_new: 023 Party time
+    name_old: Theme_23
+    title: Party time
+    track: 23
+  - artist: Mitsukiyo
+    name_new: 024 Endless Carnival (8-Bit Arrange)
+    name_old: Theme_24_8bit
+    title: Endless Carnival (8-Bit Arrange)
+    track: 24
+  - artist: Mitsukiyo
+    name_new: 024 Endless Carnival (Chorus)
+    name_old: Theme_24_Chorus
+    title: Endless Carnival (Chorus)
+    track: 24
+  - artist: Mitsukiyo
+    name_new: 024 Endless Carnival (Intro)
+    name_old: Theme_24_Intro
+    title: Endless Carnival (Intro)
+    track: 24
+  - artist: Mitsukiyo
+    name_new: 024 Endless Carnival (Verse)
+    name_old: Theme_24_Verse
+    title: Endless Carnival (Verse)
+    track: 24
+  - artist: Mitsukiyo
+    name_new: 024 Endless Carnival
+    name_old: Theme_24
+    title: Endless Carnival
+    track: 24
+  - artist: Mitsukiyo
+    name_new: 025 Future Bossa
+    name_old: Theme_25
+    title: Future Bossa
+    track: 25
+  - artist: Mitsukiyo
+    name_new: 026 Lemonade Diary
+    name_old: Theme_26
+    title: Lemonade Diary
+    track: 26
+  - artist: KARUT
+    name_new: 027 Fade Out
+    name_old: Theme_27
+    title: Fade Out
+    track: 27
+  - artist: KARUT
+    name_new: 028 Plug and Play
+    name_old: Theme_28
+    title: Plug and Play
+    track: 28
+  - artist: KARUT
+    name_new: 029 Alert
+    name_old: Theme_29
+    title: Alert
+    track: 29
+  - artist: KARUT
+    name_new: 030 CrossFire
+    name_old: Theme_30
+    title: CrossFire
+    track: 30
+  - artist: Nor
+    name_new: 031 Hello to Halo
+    name_old: Theme_31
+    title: Hello to Halo
+    track: 31
+  - artist: Nor
+    name_new: 032 GGF
+    name_old: Theme_32
+    title: GGF
+    track: 32
+  - artist: Nor
+    name_new: 033 Vivid Night
+    name_old: Theme_33
+    title: Vivid Night
+    track: 33
+  - artist: Nor
+    name_new: 034 Aoharu (Short)
+    name_old: Theme_34_Short
+    title: Aoharu (Short)
+    track: 34
+  - artist: Nor
+    name_new: 034 Aoharu
+    name_old: Theme_34
+    title: Aoharu
+    track: 34
+  - artist: Mitsukiyo
+    name_new: 035 Morose Dreamer
+    name_old: Theme_35
+    title: Morose Dreamer
+    track: 35
+  - artist: Mitsukiyo
+    name_new: 036 Koi is love
+    name_old: Theme_36
+    title: Koi is love
+    track: 36
+  - artist: Mitsukiyo
+    name_new: 037 Aira
+    name_old: Theme_37
+    title: Aira
+    track: 37
+  - artist: Mitsukiyo
+    name_new: 038 Guruguru Usagi
+    name_old: Theme_38
+    title: Guruguru Usagi
+    track: 38
+  - artist: KARUT
+    name_new: 039 Water Drop
+    name_old: Theme_39
+    title: Water Drop
+    track: 39
+  - artist: KARUT
+    name_new: 040 Neo City Dive
+    name_old: Theme_40
+    title: Neo City Dive
+    track: 40
+  - artist: KARUT
+    name_new: 041 Interface
+    name_old: Theme_41
+    title: Interface
+    track: 41
+  - artist: KARUT
+    name_new: 042 Glitch Street
+    name_old: Theme_42
+    title: Glitch Street
+    track: 42
+  - artist: Nor
+    name_new: 043 KIRISAME
+    name_old: Theme_43
+    title: KIRISAME
+    track: 43
+  - artist: Nor
+    name_new: 044 Walkthrough
+    name_old: Theme_44
+    title: Walkthrough
+    track: 44
+  - artist: Nor
+    name_new: 045 Signal of Abydos
+    name_old: Theme_45
+    title: Signal of Abydos
+    track: 45
+  - artist: Nor
+    name_new: 046 Sugar story
+    name_old: Theme_46
+    title: Sugar story
+    track: 46
+  - artist: Mitsukiyo
+    name_new: 047 Coffee Cats
+    name_old: Theme_47
+    title: Coffee Cats
+    track: 47
+  - artist: KARUT
+    name_new: 048 Out of Control (Chorus)
+    name_old: Theme_48_Chorus
+    title: Out of Control (Chorus)
+    track: 48
+  - artist: KARUT
+    name_new: 048 Out of Control (Intro)
+    name_old: Theme_48_Intro
+    title: Out of Control (Intro)
+    track: 48
+  - artist: KARUT
+    name_new: 048 Out of Control (Verse)
+    name_old: Theme_48_Verse
+    title: Out of Control (Verse)
+    track: 48
+  - artist: KARUT
+    name_new: 048 Out of Control
+    name_old: Theme_48
+    title: Out of Control
+    track: 48
+  - artist: KARUT
+    name_new: 049 Mechanical JUNGLE (Hi-Tech Full On MIX)
+    name_old: Theme_49
+    title: Mechanical JUNGLE (Hi-Tech Full On MIX)
+    track: 49
+  - artist: KARUT
+    name_new: 050 Hue
+    name_old: Theme_50
+    title: Hue
+    track: 50
+  - artist: Nor
+    name_new: 051 ARES
+    name_old: Theme_51
+    title: ARES
+    track: 51
+  - artist: Nor
+    name_new: 052 Vibes
+    name_old: Theme_52
+    title: Vibes
+    track: 52
+  - artist: Nor
+    name_new: 053 Future Lab
+    name_old: Theme_53
+    title: Future Lab
+    track: 53
+  - artist: Nor
+    name_new: 054 After the Beep
+    name_old: Theme_54
+    title: After the Beep
+    track: 54
+  - artist: Nor
+    name_new: 055 Moment
+    name_old: Theme_55
+    title: Moment
+    track: 55
+  - artist: Nor
+    name_new: 056 Fearful Utopia
+    name_old: Theme_56
+    title: Fearful Utopia
+    track: 56
+  - artist: Nor
+    name_new: 057 Han-nari
+    name_old: Theme_57
+    title: Han-nari
+    track: 57
+  - artist: Nor
+    name_new: 058 SAKURA PUNCH
+    name_old: Theme_58
+    title: SAKURA PUNCH
+    track: 58
+  - artist: Nor
+    name_new: 059 RE Aoharu (Short)
+    name_old: Theme_59_Short
+    title: RE Aoharu (Short)
+    track: 59
+  - artist: Nor
+    name_new: 059 RE Aoharu (Title)
+    name_old: Theme_59_Title
+    title: RE Aoharu (Title)
+    track: 59
+  - artist: Nor
+    name_new: 059 RE Aoharu
+    name_old: Theme_59
+    title: RE Aoharu
+    track: 59
+  - artist: Nor
+    name_new: 060 SAKURA PUNCH (Hard Arrange)
+    name_old: Theme_60
+    title: SAKURA PUNCH (Hard Arrange)
+    track: 60
+  - artist: Mitsukiyo
+    name_new: 061 Rolling Beat
+    name_old: Theme_61
+    title: Rolling Beat
+    track: 61
+  - artist: Mitsukiyo
+    name_new: 062 Merry Blue
+    name_old: Theme_62
+    title: Merry Blue
+    track: 62
+  - artist: Mitsukiyo
+    name_new: 063 Blooming moon
+    name_old: Theme_63
+    title: Blooming moon
+    track: 63
+  - artist: Mitsukiyo
+    name_new: 064 Pixel Time
+    name_old: Theme_64
+    title: Pixel Time
+    track: 64
+  - artist: KARUT
+    name_new: 065 Accelerator
+    name_old: Theme_65
+    title: Accelerator
+    track: 65
+  - artist: KARUT
+    name_new: 066 Golden Shangri-la
+    name_old: Theme_66
+    title: Golden Shangri-la
+    track: 66
+  - artist: KARUT
+    name_new: 067 Someday, sometime
+    name_old: Theme_67
+    title: Someday, sometime
+    track: 67
+  - artist: Mitsukiyo
+    name_new: 068 Virtual Storm (Hard Arrange)
+    name_old: Theme_68
+    title: Virtual Storm (Hard Arrange)
+    track: 68
+  - artist: Mitsukiyo
+    name_new: 069 Snow Pantomime
+    name_old: Theme_69
+    title: Snow Pantomime
+    track: 69
+  - artist: KARUT
+    name_new: 070 Black Suit
+    name_old: Theme_70
+    title: Black Suit
+    track: 70
+  - artist: KARUT
+    name_new: 071 Denshi Toujou!
+    name_old: Theme_71
+    title: Denshi Toujou!
+    track: 71
+  - artist: KARUT
+    name_new: 072 Kaiten Screw!!!
+    name_old: Theme_72
+    title: Kaiten Screw!!!
+    track: 72
+  - artist: Mitsukiyo
+    name_new: 073 Interface (Hard Arrange)
+    name_old: Theme_73
+    title: Interface (Hard Arrange)
+    track: 73
+  - artist: KARUT
+    name_new: 074 Tech N Tech (Hard Arrange)
+    name_old: Theme_74
+    title: Tech N Tech (Hard Arrange)
+    track: 74
+  - artist: KARUT
+    name_new: 075 Alert (Hard Arrange)
+    name_old: Theme_75
+    title: Alert (Hard Arrange)
+    track: 75
+  - artist: KARUT
+    name_new: 076 CrossFire (Hard Arrange)
+    name_old: Theme_76
+    title: CrossFire (Hard Arrange)
+    track: 76
+  - artist: Mitsukiyo
+    name_new: 077 Burning Love
+    name_old: Theme_77
+    title: Burning Love
+    track: 77
+  - artist: KARUT
+    name_new: 078 Fever Time
+    name_old: Theme_78
+    title: Fever Time
+    track: 78
+  - artist: Mitsukiyo
+    name_new: 079 Summer Bounce
+    name_old: Theme_79
+    title: Summer Bounce
+    track: 79
+  - artist: Mitsukiyo
+    name_new: 080 Colorful Beach
+    name_old: Theme_80
+    title: Colorful Beach
+    track: 80
+  - artist: KARUT
+    name_new: 081 Summer Bounce (Hard Arrange)
+    name_old: Theme_81
+    title: Summer Bounce (Hard Arrange)
+    track: 81
+  - artist: Mitsukiyo
+    name_new: 082 Hifumi Daisuki
+    name_old: Theme_82
+    title: Hifumi Daisuki
+    track: 82
+  - artist: Mitsukiyo
+    name_new: 083 PRST Academy
+    name_old: Theme_83
+    title: PRST Academy
+    track: 83
+  - artist: Mitsukiyo
+    name_new: 084 PRST Marching
+    name_old: Theme_84
+    title: PRST Marching
+    track: 84
+  - artist: KARUT
+    name_new: 085 Library of Omen (8-Bit Arrange)
+    name_old: Theme_85_8bit
+    title: Library of Omen (8-Bit Arrange)
+    track: 85
+  - artist: KARUT
+    name_new: 085 Library of Omen (Chorus)
+    name_old: Theme_85_Chorus
+    title: Library of Omen (Chorus)
+    track: 85
+  - artist: KARUT
+    name_new: 085 Library of Omen (Verse)
+    name_old: Theme_85_Verse
+    title: Library of Omen (Verse)
+    track: 85
+  - artist: KARUT
+    name_new: 085 Library of Omen
+    name_old: Theme_85
+    title: Library of Omen
+    track: 85
+  - artist: Mitsukiyo
+    name_new: 086 Summertime archive
+    name_old: Theme_86
+    title: Summertime archive
+    track: 86
+  - artist: Mitsukiyo
+    name_new: 087 Constant Moderato (Piano Arrange)
+    name_old: Theme_87
+    title: Constant Moderato (Piano Arrange)
+    track: 87
+  - artist: KARUT
+    name_new: 088 Oriental Drop
+    name_old: Theme_88
+    title: Oriental Drop
+    track: 88
+  - artist: KARUT
+    name_new: 089 The Dragon Express
+    name_old: Theme_89
+    title: The Dragon Express
+    track: 89
+  - artist: ''
+    name_new: 090 Theme 90 (Unassigned)
+    name_old: Theme_90
+    title: Theme 90
+    track: 90
+  - artist: Nor
+    name_new: 091 FEEEEVER TIME
+    name_old: Theme_91
+    title: FEEEEVER TIME
+    track: 91
+  - artist: Nor
+    name_new: 092 Crucial Issue
+    name_old: Theme_92
+    title: Crucial Issue
+    track: 92
+  - artist: Mitsukiyo
+    name_new: 093 Formless Dream
+    name_old: Theme_93
+    title: Formless Dream
+    track: 93
+  - artist: Mitsukiyo
+    name_new: 094 Bunny Bunny Carrot Carrot
+    name_old: Theme_94
+    title: Bunny Bunny Carrot Carrot
+    track: 94
+  - artist: KARUT
+    name_new: 095 JACKPOT 777
+    name_old: Theme_95
+    title: JACKPOT 777
+    track: 95
+  - artist: Nor
+    name_new: 096 OperationD
+    name_old: Theme_96
+    title: OperationD
+    track: 96
+  - artist: Mitsukiyo
+    name_new: 097 Blue New Year!
+    name_old: Theme_97
+    title: Blue New Year!
+    track: 97
+  - artist: KARUT
+    name_new: 098 Oxygen Destroyer
+    name_old: Theme_98
+    title: Oxygen Destroyer
+    track: 98
+  - artist: Mitsukiyo
+    name_new: 099 Nesno wons
+    name_old: Theme_99
+    title: Nesno wons
+    track: 99
+  - artist: KARUT
+    name_new: 100 Undefined Behavior
+    name_old: Theme_100
+    title: Undefined Behavior
+    track: 100
+  - artist: KARUT
+    name_new: 101 NRG FielD
+    name_old: Theme_101
+    title: NRG FielD
+    track: 101
+  - artist: Mitsukiyo
+    name_new: 102 GIVE ME CHOCO♡
+    name_old: Theme_102
+    title: GIVE ME CHOCO♡
+    track: 102
+  - artist: ''
+    name_new: 103 Theme 103
+    name_old: Theme_103
+    title: Theme 103
+    track: 103
+  - artist: ''
+    name_new: 104 Theme 104
+    name_old: Theme_104
+    title: Theme 104
+    track: 104
+  - artist: Mitsukiyo
+    name_new: 105 Alkaline Tears
+    name_old: Theme_105
+    title: Alkaline Tears
+    track: 105
+  - artist: Mitsukiyo
+    name_new: 106 Blue New Battle
+    name_old: Theme_106
+    title: Blue New Battle
+    track: 106
+  - artist: Nor
+    name_new: 107 NERINERI CHALLENGE
+    name_old: Theme_107
+    title: NERINERI CHALLENGE
+    track: 107
+  - artist: KARUT
+    name_new: 108 Starting Pistol
+    name_old: Theme_108
+    title: Starting Pistol
+    track: 108
+  - artist: Mitsukiyo
+    name_new: 109 Dolce Biblioteca
+    name_old: Theme_109
+    title: Dolce Biblioteca
+    track: 109
+  - artist: KARUT
+    name_new: 110 Codex of Omen
+    name_old: Theme_110
+    title: Codex of Omen
+    track: 110
+  - artist: ''
+    name_new: 111 Theme 111 (Unassigned)
+    name_old: Theme_111
+    title: Theme 111
+    track: 111
+  - artist: ''
+    name_new: 112 Theme 112 (Unassigned)
+    name_old: Theme_112
+    title: Theme 112
+    track: 112
+  - artist: Nor
+    name_new: 113 Usagi Flap
+    name_old: Theme_113
+    title: Usagi Flap
+    track: 113
+  - artist: ''
+    name_new: 114 Unwelcome Guest (8-Bit Arrange)
+    name_old: Theme_114_8bit
+    title: Unwelcome Guest (8-Bit Arrange)
+    track: 114
+  - artist: ''
+    name_new: 114 Unwelcome Guest
+    name_old: Theme_114
+    title: Unwelcome Guest
+    track: 114
+  - artist: ''
+    name_new: 115 Fall into the rabbit hole
+    name_old: Theme_115
+    title: Fall into the rabbit hole
+    track: 115
+  - artist: Nor
+    name_new: 116 IROHANI HOP
+    name_old: Theme_116
+    title: IROHANI HOP
+    track: 116
+  - artist: Nor
+    name_new: 117 KARAKURhythm
+    name_old: Theme_117
+    title: KARAKURhythm
+    track: 117
+  - artist: KARUT
+    name_new: 118 Agnus Dei
+    name_old: Theme_118
+    title: Agnus Dei
+    track: 118
+  - artist: KARUT
+    name_new: 119 Blood Stained Faith
+    name_old: Theme_119
+    title: Blood Stained Faith
+    track: 119
+  - artist: Mitsukiyo
+    name_new: 120 DIVE INTO SUMMER
+    name_old: Theme_120
+    title: DIVE INTO SUMMER
+    track: 120
+  - artist: ''
+    name_new: 121 Theme 121
+    name_old: Theme_121
+    title: Theme 121
+    track: 121
+  - artist: ''
+    name_new: 122 Theme 122
+    name_old: Theme_122
+    title: Theme 122
+    track: 122
+  - artist: ''
+    name_new: 123 Theme 123
+    name_old: Theme_123
+    title: Theme 123
+    track: 123
+  - artist: Mitsukiyo
+    name_new: 124 TOMODACHI SUMMER
+    name_old: Theme_124
+    title: TOMODACHI SUMMER
+    track: 124
+  - artist: Mitsukiyo
+    name_new: 125 Kaphar (Blank)
+    name_old: Theme_125_Blank
+    title: Kaphar (Blank)
+    track: 125
+  - artist: Mitsukiyo
+    name_new: 125 Kaphar
+    name_old: Theme_125
+    title: Kaphar
+    track: 125
+  - artist: ''
+    name_new: 126 Theme 126 (Unassigned)
+    name_old: Theme_126
+    title: Theme 126
+    track: 126
+  - artist: ''
+    name_new: 127 Theme 127
+    name_old: Theme_127
+    title: Theme 127
+    track: 127
+  - artist: KARUT
+    name_new: 128 After School Dessert
+    name_old: Theme_128
+    title: After School Dessert
+    track: 128
+  - artist: KARUT
+    name_new: 129 Let me think about it
+    name_old: Theme_129
+    title: Let me think about it
+    track: 129
+  - artist: KARUT
+    name_new: 130 Foolish Days
+    name_old: Theme_130
+    title: Foolish Days
+    track: 130
+  - artist: KARUT
+    name_new: 131 Shooting Athletes
+    name_old: Theme_131
+    title: Shooting Athletes
+    track: 131
+  - artist: KARUT
+    name_new: 132 Theme 132
+    name_old: Theme_132
+    title: Theme 132
+    track: 132
+  - artist: KARUT
+    name_new: 133 Goal Wo Nerae!
+    name_old: Theme_133
+    title: Goal Wo Nerae!
+    track: 133
+  - artist: ''
+    name_new: 134 Theme 134
+    name_old: Theme_134
+    title: Theme 134
+    track: 134
+  - artist: Mitsukiyo
+    name_new: 135 Theme 135
+    name_old: Theme_135
+    title: Theme 135
+    track: 135
+  - artist: Mitsukiyo
+    name_new: 136 Kyrie Eleison (Short)
+    name_old: Theme_136_Short
+    title: Kyrie Eleison (Short)
+    track: 136
+  - artist: Mitsukiyo
+    name_new: 136 Kyrie Eleison
+    name_old: Theme_136
+    title: Kyrie Eleison
+    track: 136
+  - artist: ''
+    name_new: 137 Theme 137
+    name_old: Theme_137
+    title: Theme 137
+    track: 137
+  - artist: ''
+    name_new: 138 Theme 138
+    name_old: Theme_138
+    title: Theme 138
+    track: 138
+  - artist: Mitsukiyo
+    name_new: 139 Cherry Berry Merry
+    name_old: Theme_139
+    title: Cherry Berry Merry
+    track: 139
+  - artist: Mitsukiyo
+    name_new: 140 Theme 140
+    name_old: Theme_140
+    title: Theme 140
+    track: 140
+  - artist: Nor
+    name_new: 141 Tasty New Year
+    name_old: Theme_141
+    title: Tasty New Year
+    track: 141
+  - artist: ''
+    name_new: 142 Encroached Sky (Short)
+    name_old: Theme_142_Short
+    title: Encroached Sky (Short)
+    track: 142
+  - artist: KARUT
+    name_new: 142 Encroached Sky
+    name_old: Theme_142
+    title: Encroached Sky
+    track: 142
+  - artist: KARUT
+    name_new: 143 !⸮ WAS IT A CAT I SAW ?!
+    name_old: Theme_143
+    title: '!⸮ WAS IT A CAT I SAW ?!'
+    track: 143
+  - artist: ''
+    name_new: 144 Theme 144 (Unassigned)
+    name_old: Theme_144
+    title: Theme 144
+    track: 144
+  - artist: ''
+    name_new: 145 Theme 145
+    name_old: Theme_145
+    title: Theme 145
+    track: 145
+  - artist: ''
+    name_new: 146 Theme 146 (Unassigned)
+    name_old: Theme_146
+    title: Theme 146
+    track: 146
+  - artist: ''
+    name_new: 147 Theme 147 (Unassigned)
+    name_old: Theme_147
+    title: Theme 147
+    track: 147
+  - artist: Nor
+    name_new: 148 Polyphonic
+    name_old: Theme_148
+    title: Polyphonic
+    track: 148
+  - artist: KARUT
+    name_new: 149 Ark in the Blood Sky
+    name_old: Theme_149
+    title: Ark in the Blood Sky
+    track: 149
+  - artist: KARUT
+    name_new: 150 System All Green
+    name_old: Theme_150
+    title: System All Green
+    track: 150
+  - artist: KARUT
+    name_new: 151 Kaiten Hurricane!!! (Short)
+    name_old: Theme_151_Short
+    title: Kaiten Hurricane!!! (Short)
+    track: 151
+  - artist: KARUT
+    name_new: 151 Kaiten Hurricane!!! (VeryShort)
+    name_old: Theme_151_VeryShort
+    title: Kaiten Hurricane!!! (VeryShort)
+    track: 151
+  - artist: KARUT
+    name_new: 151 Kaiten Hurricane!!!
+    name_old: Theme_151
+    title: Kaiten Hurricane!!!
+    track: 151
+  - artist: Mitsukiyo
+    name_new: 152 Aoharu (Band Arrange)
+    name_old: Theme_152
+    title: Aoharu (Band Arrange)
+    track: 152
+  - artist: ''
+    name_new: 153 Theme 153 (Unassigned)
+    name_old: Theme_153
+    title: Theme 153
+    track: 153
+  - artist: Mitsukiyo
+    name_new: 154 Our New Story
+    name_old: Theme_154_Title
+    title: Our New Story
+    track: 154
+  - artist: Nor
+    name_new: 155 Responsibility
+    name_old: Theme_155
+    title: Responsibility
+    track: 155
+  - artist: KARUT
+    name_new: 156 Final Destination of Ark
+    name_old: Theme_156
+    title: Final Destination of Ark
+    track: 156
+  - artist: KARUT
+    name_new: 157 Top of Terror
+    name_old: Theme_157
+    title: Top of Terror
+    track: 157
+  - artist: Mitsukiyo
+    name_new: 158 Theme 158 (Chorus)
+    name_old: Theme_158_Chorus
+    title: Theme 158 (Chorus)
+    track: 158
+  - artist: Mitsukiyo
+    name_new: 158 Theme 158 (Intro)
+    name_old: Theme_158_Intro
+    title: Theme 158 (Intro)
+    track: 158
+  - artist: Mitsukiyo
+    name_new: 158 Theme 158 (Verse)
+    name_old: Theme_158_Verse
+    title: Theme 158 (Verse)
+    track: 158
+  - artist: Mitsukiyo
+    name_new: 158 Theme 158
+    name_old: Theme_158
+    title: Theme 158
+    track: 158
+  - artist: Mitsukiyo
+    name_new: 159 Operation☆DOTABATA
+    name_old: Theme_159
+    title: Operation☆DOTABATA
+    track: 159
+  - artist: ''
+    name_new: 160 Theme 160
+    name_old: Theme_160
+    title: Theme 160
+    track: 160
+  - artist: KARUT
+    name_new: 161 Theme 161
+    name_old: Theme_161
+    title: Theme 161
+    track: 161
+  - artist: Mitsukiyo
+    name_new: 162 Welcome School
+    name_old: Theme_162
+    title: Welcome School
+    track: 162
+  - artist: KARUT
+    name_new: 163 Theme 163
+    name_old: Theme_163
+    title: Theme 163
+    track: 163
+  - artist: KARUT
+    name_new: 164 Theme 164
+    name_old: Theme_164
+    title: Theme 164
+    track: 164
+  - artist: Nor
+    name_new: 165 Theme 165
+    name_old: Theme_165
+    title: Theme 165
+    track: 165
+  - artist: ''
+    name_new: 166 Theme 166 (Unassigned)
+    name_old: Theme_166
+    title: Theme 166
+    track: 166
+  - artist: Mitsukiyo
+    name_new: 167 Theme 167
+    name_old: Theme_167
+    title: Theme 167
+    track: 167
+  - artist: Nor
+    name_new: 168 Theme 168
+    name_old: Theme_168
+    title: Theme 168
+    track: 168
+  - artist: KARUT
+    name_new: 169 Theme 169
+    name_old: Theme_169
+    title: Theme 169
+    track: 169
+  - artist: KARUT
+    name_new: 170 Theme 170
+    name_old: Theme_170
+    title: Theme 170
+    track: 170
+  - artist: KARUT
+    name_new: 171 Theme 171
+    name_old: Theme_171
+    title: Theme 171
+    track: 171
+  - artist: KARUT
+    name_new: 172 Theme 172
+    name_old: Theme_172
+    title: Theme 172
+    track: 172
+  - artist: Mitsukiyo
+    name_new: 173 Theme 173
+    name_old: Theme_173
+    title: Theme 173
+    track: 173
+  - artist: ''
+    name_new: 174 Theme 174
+    name_old: Theme_174
+    title: Theme 174
+    track: 174
+  - artist: Aiobahn
+    name_new: 175 Theme 175
+    name_old: Theme_175
+    title: Theme 175
+    track: 175
+  - artist: Nor
+    name_new: 176 Theme 176
+    name_old: Theme_176
+    title: Theme 176
+    track: 176
+  - artist: KARUT
+    name_new: 177 Theme 177
+    name_old: Theme_177
+    title: Theme 177
+    track: 177
+  - artist: ''
+    name_new: 178 Theme 178
+    name_old: Theme_178
+    title: Theme 178
+    track: 178
+  - artist: ''
+    name_new: 179 Theme 179 (Unassigned)
+    name_old: Theme_179
+    title: Theme 179
+    track: 179
+  - artist: ''
+    name_new: 180 Theme 180 (Unassigned)
+    name_old: Theme_180
+    title: Theme 180
+    track: 180
+  - artist: ''
+    name_new: 181 Theme 181 (Chorus)
+    name_old: Theme_181_Chorus
+    title: Theme 181 (Chorus)
+    track: 181
+  - artist: ''
+    name_new: 181 Theme 181 (Verse)
+    name_old: Theme_181_Verse
+    title: Theme 181 (Verse)
+    track: 181
+  - artist: ''
+    name_new: 181 Theme 181
+    name_old: Theme_181
+    title: Theme 181
+    track: 181
+  - artist: ''
+    name_new: 182 Theme 182
+    name_old: Theme_182
+    title: Theme 182
+    track: 182
+  - artist: ''
+    name_new: 183 Theme 183 (Unassigned)
+    name_old: Theme_183
+    title: Theme 183
+    track: 183
+  - artist: ''
+    name_new: 184 Theme 184 (Unassigned)
+    name_old: Theme_184
+    title: Theme 184
+    track: 184
+  - artist: ''
+    name_new: 185 Theme 185 (Unassigned)
+    name_old: Theme_185
+    title: Theme 185
+    track: 185
+  - artist: ''
+    name_new: 186 Theme 186 (Unassigned)
+    name_old: Theme_186
+    title: Theme 186
+    track: 186
+  - artist: ''
+    name_new: 187 Theme 187 (Unassigned)
+    name_old: Theme_187
+    title: Theme 187
+    track: 187
+  - artist: ''
+    name_new: 188 Theme 188 (Unassigned)
+    name_old: Theme_188
+    title: Theme 188
+    track: 188
+  - artist: ''
+    name_new: 189 Theme 189 (Unassigned)
+    name_old: Theme_189
+    title: Theme 189
+    track: 189
+  - artist: ''
+    name_new: 190 Theme 190
+    name_old: Theme_190
+    title: Theme 190
+    track: 190
+  - artist: ''
+    name_new: 191 Theme 191
+    name_old: Theme_191
+    title: Theme 191
+    track: 191
+  - artist: ''
+    name_new: 192 Theme 192
+    name_old: Theme_192
+    title: Theme 192
+    track: 192
+  - artist: ''
+    name_new: 193 Theme 193
+    name_old: Theme_193
+    title: Theme 193
+    track: 193
+  - artist: Mitsukiyo
+    name_new: 194 Theme 194
+    name_old: Theme_194
+    title: Theme 194
+    track: 194
+  - artist: ''
+    name_new: 195 Theme 195
+    name_old: Theme_195
+    title: Theme 195
+    track: 195
+  - artist: ''
+    name_new: 196 Theme 196
+    name_old: Theme_196
+    title: Theme 196
+    track: 196
+  - artist: ''
+    name_new: 197 Theme 197 (Unassigned)
+    name_old: Theme_197
+    title: Theme 197
+    track: 197
+  - artist: ''
+    name_new: 198 Theme 198 (Unassigned)
+    name_old: Theme_198
+    title: Theme 198
+    track: 198
+  - artist: ''
+    name_new: 199 Theme 199 (Unassigned)
+    name_old: Theme_199
+    title: Theme 199
+    track: 199
+  - artist: ''
+    name_new: 200 Theme 200 (Unassigned)
+    name_old: Theme_200
+    title: Theme 200
+    track: 200
+  - artist: ''
+    name_new: 201 Theme 201 (Unassigned)
+    name_old: Theme_201
+    title: Theme 201
+    track: 201
+  - artist: ''
+    name_new: 202 Theme 202 (Unassigned)
+    name_old: Theme_202
+    title: Theme 202
+    track: 202
+  - artist: ''
+    name_new: 203 Theme 203 (Unassigned)
+    name_old: Theme_203
+    title: Theme 203
+    track: 203
+  - artist: ''
+    name_new: 204 Theme 204 (Unassigned)
+    name_old: Theme_204
+    title: Theme 204
+    track: 204
+  - artist: ''
+    name_new: 205 Theme 205 (Unassigned)
+    name_old: Theme_205
+    title: Theme 205
+    track: 205
+  - artist: ''
+    name_new: 206 Theme 206 (Unassigned)
+    name_old: Theme_206
+    title: Theme 206
+    track: 206
+  - artist: ''
+    name_new: 207 Theme 207 (Unassigned)
+    name_old: Theme_207
+    title: Theme 207
+    track: 207
+  - artist: ''
+    name_new: 208 Theme 208 (Unassigned)
+    name_old: Theme_208
+    title: Theme 208
+    track: 208
+  - artist: ''
+    name_new: 209 Theme 209 (Unassigned)
+    name_old: Theme_209
+    title: Theme 209
+    track: 209
+  - artist: ''
+    name_new: 210 Theme 210 (Unassigned)
+    name_old: Theme_210
+    title: Theme 210
+    track: 210

@@ -5,11 +5,6 @@ common:
   year: 2022
 database:
   - artist: Mitsukiyo
-    name_new: 優しさの記憶
-    name_old: 104000_ED_Sound.ogg
-    title: 優しさの記憶
-    track: 0
-  - artist: Mitsukiyo
     name_new: 001 Constant Moderato
     name_old: Theme_01
     title: Constant Moderato
@@ -770,6 +765,11 @@ database:
     title: Kyrie Eleison (Short)
     track: 136
   - artist: Mitsukiyo
+    name_new: 136 Kyrie Eleison (Song)
+    name_old: Theme_136_Song
+    title: Kyrie Eleison (Song)
+    track: 136
+  - artist: Mitsukiyo
     name_new: 136 Kyrie Eleison
     name_old: Theme_136
     title: Kyrie Eleison
@@ -810,7 +810,7 @@ database:
     title: Encroached Sky
     track: 142
   - artist: KARUT
-    name_new: 143 !⸮ WAS IT A CAT I SAW ?!
+    name_new: 143 WAS IT A CAT I SAW
     name_old: Theme_143
     title: '!⸮ WAS IT A CAT I SAW ?!'
     track: 143
@@ -890,9 +890,9 @@ database:
     title: Final Destination of Ark
     track: 156
   - artist: KARUT
-    name_new: 157 Top of Terror
+    name_new: 157 Step of Terror
     name_old: Theme_157
-    title: Top of Terror
+    title: Step of Terror
     track: 157
   - artist: Mitsukiyo
     name_new: 158 Theme 158 (Chorus)
@@ -925,9 +925,9 @@ database:
     title: Theme 160
     track: 160
   - artist: KARUT
-    name_new: 161 Theme 161
+    name_new: 161 Oriental Bounce
     name_old: Theme_161
-    title: Theme 161
+    title: Oriental Bounce
     track: 161
   - artist: Mitsukiyo
     name_new: 162 Welcome School
@@ -935,9 +935,9 @@ database:
     title: Welcome School
     track: 162
   - artist: KARUT
-    name_new: 163 Theme 163
+    name_new: 163 Trigger For Ambition
     name_old: Theme_163
-    title: Theme 163
+    title: Trigger For Ambition
     track: 163
   - artist: KARUT
     name_new: 164 Theme 164

@@ -2,10 +2,11 @@
   "name": "blue-archive-sound-sorter",
   "version": "1.0.0",
   "description": "Extract BGM files from MediaPatch directory of Blue Archive JP",
-  "main": "index.js",
+  "main": "index.mjs",
   "scripts": {
-    "sort": "./index.js sort",
-    "tag": "./index.js tag"
+    "convert": "node ./index.mjs convert",
+    "sort": "node ./index.mjs sort",
+    "tag": "node ./index.mjs tag"
   },
   "repository": {
     "type": "git",
@@ -26,6 +27,8 @@
   },
   "dependencies": {
     "commander": "^11.1.0",
+    "js-yaml": "^4.1.0",
+    "natural-orderby": "^3.0.2",
     "node-id3": "^0.2.6"
   }
 }

@@ -422,6 +422,4 @@ pyrightconfig.json
 *.mp3
 *.ogg
 *.zip
-MediaPatch/
-mp3/
-output/
+.source/

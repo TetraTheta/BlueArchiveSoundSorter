@@ -1,7 +1,8 @@
 # Blue Archive Sound Sorter
 
-Extract BGM files from MediaPatch directory of Blue Archive JP.
+Extract/Convert/Tag BGM files from MediaPatch directory of Blue Archive JP. 
 
+> [!CAUTION]
 > **LEGAL NOTICE**  
 > You must not redistribute files from MediaPatch. This includes files created/converted from MediaPatch.
 
@@ -26,7 +27,7 @@ git clone https://github.com/TetraTheta/BlueArchiveSoundSorter
 
 ### 2. Get MediaPatch from Blue Archive JP
 
-If you experience problems logging in as a guest, try to install the Android Webview package.
+If you experience problems logging in as a guest, try to install the [Android System Webview](https://play.google.com/store/apps/details?id=com.google.android.webview) package.
 
 You must finish a tutorial (Battle with Wakamo & S.C.H.A.L.E. Recapture) to get the full MediaPatch directory. Files are downloaded while you are playing the tutorial. After finishing the tutorial, you can close the game.
 
@@ -58,13 +59,19 @@ Run this command in `BlueArchiveSoundSorter`.
 npm ci
 ```
 
+In most cases, running `npm install` won't hurt, but I don't guarantee it will work as intended.
+
 ### 4. Run commands
 
 Now you can run commands of BlueArchiveSoundSorter.
 
-#### `sort`
+#### 4.1 `sort`
 
 Renames BGM files based on data of 'MediaCatalog.json' file.
+
+> [!WARNING]
+> This uses very weak algorithm because it only compares file size. I couldn't find any way to use `CRC` value yet.  
+> So far, this worked flawless.
 
 ```
 node ./index.mjs sort [-s|--source <path>] [-o|--output <path>] [-c|--catalog <file>] [-t|--theme-only <boolean>]
@@ -75,11 +82,13 @@ node ./index.mjs sort [-s|--source <path>] [-o|--output <path>] [-c|--catalog <f
 - `--catalog`, `-c`: Path of 'MediaCatalog.json' (Default: `./.source/MediaPatch/MediaCatalog.json`)
 - `--theme-only`, `-t`: Process OST file only? (Default: `true`)
 
-If you followed the instructions above, you don't need to provide any options except for `--theme-only` which is your preference. Do note that if you provide `false` to `--theme-only`, it will take very long time to finish the process because it will try to *sort* other audio files like Character Voice etc.
+If you followed the instructions above, you don't need to provide any options except for `--theme-only` which is your preference.  
+Do note that if you provide `false` to `--theme-only`, it will take very long time to finish the process because it will try to *sort* other audio files like Character Voice etc.
 
+Some files will be warned because `MediaCatalog.json` tells they are not in `MediaPatch` 
 Some files are not in `MediaPatch` directory. In this case, they should be inside of `obb.zip`. That's why I instructed you to copy OBB file too.
 
-#### `convert`
+#### 4.2 `convert`
 
 Convert OGG files to MP3 format (320kbps, 48000Hz)
 
@@ -92,7 +101,7 @@ node ./index.mjs convert [-s|--source <path>] [-o|--output <path>]
 
 I know that this is overkill to convert OGG files to MP3 format, but I couldn't find any way to apply metadata(tag) to OGG file.
 
-#### `tag`
+#### 4.3 `tag`
 
 Apply IDv3 tags to MP3 files and rename them. This is irreversible!
 

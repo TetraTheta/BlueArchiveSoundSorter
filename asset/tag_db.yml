@@ -1,4 +1,4 @@
-_last_update: '2023.12.11'
+_last_update: '2024.02.09'
 common:
   album: Blue Archive Game OST
   album_artist: Blue Archive
@@ -580,19 +580,19 @@ database:
     title: NRG FielD
     track: 101
   - artist: Mitsukiyo
-    name_new: 102 GIVE ME CHOCO♡
+    name_new: 102 GIVE ME CHOCO
     name_old: Theme_102
     title: GIVE ME CHOCO♡
     track: 102
-  - artist: ''
-    name_new: 103 Theme 103
+  - artist: KARUT
+    name_new: 103 Poppin' Memories
     name_old: Theme_103
-    title: Theme 103
+    title: Poppin' Memories
     track: 103
-  - artist: ''
-    name_new: 104 Theme 104
+  - artist: Mitsukiyo
+    name_new: 104 Cotton Candy Island
     name_old: Theme_104
-    title: Theme 104
+    title: Cotton Candy Island
     track: 104
   - artist: Mitsukiyo
     name_new: 105 Alkaline Tears
@@ -679,20 +679,20 @@ database:
     name_old: Theme_120
     title: DIVE INTO SUMMER
     track: 120
-  - artist: ''
-    name_new: 121 Theme 121
+  - artist: Nor
+    name_new: 121 Na Na Natsu!
     name_old: Theme_121
-    title: Theme 121
+    title: Na Na Natsu!
     track: 121
   - artist: ''
-    name_new: 122 Theme 122
+    name_new: 122 Underwater Jungle
     name_old: Theme_122
-    title: Theme 122
+    title: Underwater Jungle
     track: 122
-  - artist: ''
-    name_new: 123 Theme 123
+  - artist: Nor
+    name_new: 123 Luxury Cool
     name_old: Theme_123
-    title: Theme 123
+    title: Luxury Cool
     track: 123
   - artist: Mitsukiyo
     name_new: 124 TOMODACHI SUMMER
@@ -714,10 +714,10 @@ database:
     name_old: Theme_126
     title: Theme 126
     track: 126
-  - artist: ''
-    name_new: 127 Theme 127
+  - artist: KARUT
+    name_new: 127 Wave & Conquer
     name_old: Theme_127
-    title: Theme 127
+    title: Wave & Conquer
     track: 127
   - artist: KARUT
     name_new: 128 After School Dessert
@@ -739,25 +739,25 @@ database:
     name_old: Theme_131
     title: Shooting Athletes
     track: 131
-  - artist: KARUT
-    name_new: 132 Theme 132
+  - artist: Nor
+    name_new: 132 Raise the Huddle
     name_old: Theme_132
-    title: Theme 132
+    title: Raise the Huddle
     track: 132
   - artist: KARUT
     name_new: 133 Goal Wo Nerae!
     name_old: Theme_133
     title: Goal Wo Nerae!
     track: 133
-  - artist: ''
-    name_new: 134 Theme 134
+  - artist: Mitsukiyo
+    name_new: 134 Gestalt Angst
     name_old: Theme_134
-    title: Theme 134
+    title: Gestalt Angst
     track: 134
   - artist: Mitsukiyo
-    name_new: 135 Theme 135
+    name_new: 135 Fruitful Blossom
     name_old: Theme_135
-    title: Theme 135
+    title: Fruitful Blossom
     track: 135
   - artist: Mitsukiyo
     name_new: 136 Kyrie Eleison (Short)
@@ -790,9 +790,9 @@ database:
     title: Cherry Berry Merry
     track: 139
   - artist: Mitsukiyo
-    name_new: 140 Theme 140
+    name_new: 140 Defective Pixel
     name_old: Theme_140
-    title: Theme 140
+    title: Defective Pixel
     track: 140
   - artist: Nor
     name_new: 141 Tasty New Year
@@ -812,17 +812,17 @@ database:
   - artist: KARUT
     name_new: 143 WAS IT A CAT I SAW
     name_old: Theme_143
-    title: '!⸮ WAS IT A CAT I SAW ?!'
+    title: '!? WAS IT A CAT I SAW ?!'
     track: 143
   - artist: ''
     name_new: 144 Theme 144 (Unassigned)
     name_old: Theme_144
     title: Theme 144
     track: 144
-  - artist: ''
-    name_new: 145 Theme 145
+  - artist: Nor
+    name_new: 145 Hinagesi
     name_old: Theme_145
-    title: Theme 145
+    title: Hinagesi
     track: 145
   - artist: ''
     name_new: 146 Theme 146 (Unassigned)
@@ -895,24 +895,24 @@ database:
     title: Step of Terror
     track: 157
   - artist: Mitsukiyo
-    name_new: 158 Theme 158 (Chorus)
+    name_new: 158 Gregorius Symphony (Chorus)
     name_old: Theme_158_Chorus
-    title: Theme 158 (Chorus)
+    title: Gregorius | Symphony (Chorus)
     track: 158
   - artist: Mitsukiyo
-    name_new: 158 Theme 158 (Intro)
+    name_new: 158 Gregorius Symphony (Intro)
     name_old: Theme_158_Intro
-    title: Theme 158 (Intro)
+    title: Gregorius | Symphony (Intro)
     track: 158
   - artist: Mitsukiyo
-    name_new: 158 Theme 158 (Verse)
+    name_new: 158 Gregorius Symphony (Verse)
     name_old: Theme_158_Verse
-    title: Theme 158 (Verse)
+    title: Gregorius | Symphony (Verse)
     track: 158
   - artist: Mitsukiyo
-    name_new: 158 Theme 158
+    name_new: 158 Gregorius Symphony
     name_old: Theme_158
-    title: Theme 158
+    title: Gregorius | Symphony
     track: 158
   - artist: Mitsukiyo
     name_new: 159 Operation☆DOTABATA
@@ -930,9 +930,9 @@ database:
     title: Oriental Bounce
     track: 161
   - artist: Mitsukiyo
-    name_new: 162 Welcome School
+    name_new: 162 Welcome School!
     name_old: Theme_162
-    title: Welcome School
+    title: Welcome School!
     track: 162
   - artist: KARUT
     name_new: 163 Trigger For Ambition
@@ -940,14 +940,14 @@ database:
     title: Trigger For Ambition
     track: 163
   - artist: KARUT
-    name_new: 164 Theme 164
+    name_new: 164 Kitsunebi
     name_old: Theme_164
-    title: Theme 164
+    title: Kitsunebi
     track: 164
   - artist: Nor
-    name_new: 165 Theme 165
+    name_new: 165 Up to 21°C
     name_old: Theme_165
-    title: Theme 165
+    title: Up to 21°C
     track: 165
   - artist: ''
     name_new: 166 Theme 166 (Unassigned)
@@ -985,11 +985,11 @@ database:
     title: Theme 172
     track: 172
   - artist: Mitsukiyo
-    name_new: 173 Theme 173
+    name_new: 173 Takaramonogatari
     name_old: Theme_173
-    title: Theme 173
+    title: Takaramonogatari
     track: 173
-  - artist: ''
+  - artist: Nor
     name_new: 174 Theme 174
     name_old: Theme_174
     title: Theme 174
@@ -999,23 +999,43 @@ database:
     name_old: Theme_175
     title: Theme 175
     track: 175
-  - artist: Nor
-    name_new: 176 Theme 176
+  - artist: KARUT
+    name_new: 176 Illuminated Night
     name_old: Theme_176
-    title: Theme 176
+    title: Illuminated Night
     track: 176
   - artist: KARUT
-    name_new: 177 Theme 177
+    name_new: 177 Illuminated Night (Hard Arrange)
     name_old: Theme_177
-    title: Theme 177
+    title: Illuminated Night (Hard Arrange)
     track: 177
-  - artist: ''
-    name_new: 178 Theme 178
+  - artist: Nor
+    name_new: 178 Tsukikage
     name_old: Theme_178
-    title: Theme 178
+    title: Tsukikage
     track: 178
-  - artist: ''
-    name_new: 179 Theme 179 (Unassigned)
+  - artist: Mitsukiyo
+    name_new: 179 Theme 179 (Instrumental)
+    name_old: Theme_179_Inst
+    title: Theme 179 (Instrumental)
+    track: 179
+  - artist: Mitsukiyo
+    name_new: 179 Theme 179 (Instrumental 2)
+    name_old: Theme_179_Inst2
+    title: Theme 179 (Instrumental 2)
+    track: 179
+  - artist: Mitsukiyo
+    name_new: 179 Theme 179 (Short)
+    name_old: Theme_179_Short
+    title: Theme 179 (Short)
+    track: 179
+  - artist: Mitsukiyo
+    name_new: 179 Theme 179 (Short Instrumental)
+    name_old: Theme_179_Short_Inst
+    title: Theme 179 (Short Instrumental)
+    track: 179
+  - artist: Mitsukiyo
+    name_new: 179 Theme 179
     name_old: Theme_179
     title: Theme 179
     track: 179
@@ -1024,28 +1044,28 @@ database:
     name_old: Theme_180
     title: Theme 180
     track: 180
-  - artist: ''
-    name_new: 181 Theme 181 (Chorus)
+  - artist: KARUT
+    name_new: 181 Dark Shadows (Chorus)
     name_old: Theme_181_Chorus
-    title: Theme 181 (Chorus)
+    title: Dark Shadows (Chorus)
     track: 181
-  - artist: ''
-    name_new: 181 Theme 181 (Verse)
+  - artist: KARUT
+    name_new: 181 Dark Shadows (Verse)
     name_old: Theme_181_Verse
-    title: Theme 181 (Verse)
+    title: Dark Shadows (Verse)
     track: 181
-  - artist: ''
-    name_new: 181 Theme 181
+  - artist: KARUT
+    name_new: 181 Dark Shadows
     name_old: Theme_181
-    title: Theme 181
+    title: Dark Shadows
     track: 181
-  - artist: ''
+  - artist: Nor
     name_new: 182 Theme 182
     name_old: Theme_182
     title: Theme 182
     track: 182
-  - artist: ''
-    name_new: 183 Theme 183 (Unassigned)
+  - artist: Nor
+    name_new: 183 Theme 183
     name_old: Theme_183
     title: Theme 183
     track: 183
@@ -1059,8 +1079,8 @@ database:
     name_old: Theme_185
     title: Theme 185
     track: 185
-  - artist: ''
-    name_new: 186 Theme 186 (Unassigned)
+  - artist: Mitsukiyo
+    name_new: 186 Theme 186
     name_old: Theme_186
     title: Theme 186
     track: 186
@@ -1079,10 +1099,10 @@ database:
     name_old: Theme_189
     title: Theme 189
     track: 189
-  - artist: ''
-    name_new: 190 Theme 190
+  - artist: Mitsukiyo
+    name_new: 190 Dancing Falsehood
     name_old: Theme_190
-    title: Theme 190
+    title: Dancing Falsehood
     track: 190
   - artist: ''
     name_new: 191 Theme 191
@@ -1094,7 +1114,7 @@ database:
     name_old: Theme_192
     title: Theme 192
     track: 192
-  - artist: ''
+  - artist: Synthion
     name_new: 193 Theme 193
     name_old: Theme_193
     title: Theme 193
@@ -1104,15 +1124,15 @@ database:
     name_old: Theme_194
     title: Theme 194
     track: 194
-  - artist: ''
-    name_new: 195 Theme 195
+  - artist: Nor
+    name_new: 195 Nichirin
     name_old: Theme_195
-    title: Theme 195
+    title: Nichirin
     track: 195
-  - artist: ''
-    name_new: 196 Theme 196
+  - artist: Nor
+    name_new: 196 Getsurin
     name_old: Theme_196
-    title: Theme 196
+    title: Getsurin
     track: 196
   - artist: ''
     name_new: 197 Theme 197 (Unassigned)
@@ -1124,8 +1144,8 @@ database:
     name_old: Theme_198
     title: Theme 198
     track: 198
-  - artist: ''
-    name_new: 199 Theme 199 (Unassigned)
+  - artist: Mitsukiyo
+    name_new: 199 Theme 199
     name_old: Theme_199
     title: Theme 199
     track: 199
@@ -1135,7 +1155,7 @@ database:
     title: Theme 200
     track: 200
   - artist: ''
-    name_new: 201 Theme 201 (Unassigned)
+    name_new: 201 Theme 201
     name_old: Theme_201
     title: Theme 201
     track: 201
@@ -1170,7 +1190,7 @@ database:
     title: Theme 207
     track: 207
   - artist: ''
-    name_new: 208 Theme 208 (Unassigned)
+    name_new: 208 Theme 208
     name_old: Theme_208
     title: Theme 208
     track: 208
@@ -1184,3 +1204,53 @@ database:
     name_old: Theme_210
     title: Theme 210
     track: 210
+  - artist: ''
+    name_new: 211 Theme 211 (Unassigned)
+    name_old: Theme_211
+    title: Theme 211
+    track: 211
+  - artist: ''
+    name_new: 212 Theme 212 (Unassigned)
+    name_old: Theme_212
+    title: Theme 212
+    track: 212
+  - artist: ''
+    name_new: 213 Theme 213 (Unassigned)
+    name_old: Theme_213
+    title: Theme 213
+    track: 213
+  - artist: ''
+    name_new: 214 Theme 214 (Unassigned)
+    name_old: Theme_214
+    title: Theme 214
+    track: 214
+  - artist: ''
+    name_new: 215 Theme 215 (Unassigned)
+    name_old: Theme_215
+    title: Theme 215
+    track: 215
+  - artist: ''
+    name_new: 216 Theme 216 (Unassigned)
+    name_old: Theme_216
+    title: Theme 216
+    track: 216
+  - artist: ''
+    name_new: 217 Theme 217 (Unassigned)
+    name_old: Theme_217
+    title: Theme 217
+    track: 217
+  - artist: ''
+    name_new: 218 Theme 218 (Unassigned)
+    name_old: Theme_218
+    title: Theme 218
+    track: 218
+  - artist: ''
+    name_new: 219 Theme 219 (Unassigned)
+    name_old: Theme_219
+    title: Theme 219
+    track: 219
+  - artist: ''
+    name_new: 220 Theme 220 (Unassigned)
+    name_old: Theme_220
+    title: Theme 220
+    track: 220

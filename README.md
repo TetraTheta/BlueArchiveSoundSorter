@@ -106,7 +106,7 @@ I know that this is overkill to convert OGG files to MP3 format, but I couldn't 
 Apply IDv3 tags to MP3 files and rename them. This is irreversible!
 
 ```
-node ./index.mjs sort [-s|--source <path>] [-d|--database <file>] [-a|--album-art <file>]
+node ./index.mjs tag [-s|--source <path>] [-d|--database <file>] [-a|--album-art <file>]
 ```
 
 - `--source`, `-s`: Path which contains MP3 files for tagging. (Default: `./.source/MP3/`)

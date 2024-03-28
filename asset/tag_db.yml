@@ -774,7 +774,7 @@ database:
     name_old: Theme_136
     title: Kyrie Eleison
     track: 136
-  - artist: ''
+  - artist: Nor
     name_new: 137 Theme 137
     name_old: Theme_137
     title: Theme 137
@@ -965,9 +965,9 @@ database:
     title: Theme 168
     track: 168
   - artist: KARUT
-    name_new: 169 Theme 169
+    name_new: 169 OTKPARA!
     name_old: Theme_169
-    title: Theme 169
+    title: OTKPARA!
     track: 169
   - artist: KARUT
     name_new: 170 Theme 170
@@ -1015,29 +1015,29 @@ database:
     title: Tsukikage
     track: 178
   - artist: Mitsukiyo
-    name_new: 179 Theme 179 (Instrumental)
+    name_new: 179 Yumeji no hana (Instrumental)
     name_old: Theme_179_Inst
-    title: Theme 179 (Instrumental)
+    title: Yumeji no hana (Instrumental)
     track: 179
   - artist: Mitsukiyo
-    name_new: 179 Theme 179 (Instrumental 2)
+    name_new: 179 Yumeji no hana (Instrumental 2)
     name_old: Theme_179_Inst2
-    title: Theme 179 (Instrumental 2)
+    title: Yumeji no hana (Instrumental 2)
     track: 179
   - artist: Mitsukiyo
-    name_new: 179 Theme 179 (Short)
+    name_new: 179 Yumeji no hana (Short)
     name_old: Theme_179_Short
-    title: Theme 179 (Short)
+    title: Yumeji no hana (Short)
     track: 179
   - artist: Mitsukiyo
-    name_new: 179 Theme 179 (Short Instrumental)
+    name_new: 179 Yumeji no hana (Short Instrumental)
     name_old: Theme_179_Short_Inst
-    title: Theme 179 (Short Instrumental)
+    title: Yumeji no hana (Short Instrumental)
     track: 179
   - artist: Mitsukiyo
-    name_new: 179 Theme 179
+    name_new: 179 Yumeji no hana
     name_old: Theme_179
-    title: Theme 179
+    title: Yumeji no hana
     track: 179
   - artist: ''
     name_new: 180 Theme 180 (Unassigned)
@@ -1085,12 +1085,12 @@ database:
     title: Theme 186
     track: 186
   - artist: ''
-    name_new: 187 Theme 187 (Unassigned)
+    name_new: 187 Theme 187
     name_old: Theme_187
     title: Theme 187
     track: 187
-  - artist: ''
-    name_new: 188 Theme 188 (Unassigned)
+  - artist: EmoCosine
+    name_new: 188 Theme 188
     name_old: Theme_188
     title: Theme 188
     track: 188
@@ -1140,7 +1140,7 @@ database:
     title: Theme 197
     track: 197
   - artist: ''
-    name_new: 198 Theme 198 (Unassigned)
+    name_new: 198 Theme 198
     name_old: Theme_198
     title: Theme 198
     track: 198
@@ -1195,7 +1195,7 @@ database:
     title: Theme 208
     track: 208
   - artist: ''
-    name_new: 209 Theme 209 (Unassigned)
+    name_new: 209 Theme 209
     name_old: Theme_209
     title: Theme 209
     track: 209
@@ -1210,7 +1210,7 @@ database:
     title: Theme 211
     track: 211
   - artist: ''
-    name_new: 212 Theme 212 (Unassigned)
+    name_new: 212 Theme 212
     name_old: Theme_212
     title: Theme 212
     track: 212
@@ -1230,7 +1230,7 @@ database:
     title: Theme 215
     track: 215
   - artist: ''
-    name_new: 216 Theme 216 (Unassigned)
+    name_new: 216 Theme 216
     name_old: Theme_216
     title: Theme 216
     track: 216
@@ -1245,7 +1245,7 @@ database:
     title: Theme 218
     track: 218
   - artist: ''
-    name_new: 219 Theme 219 (Unassigned)
+    name_new: 219 Theme 219
     name_old: Theme_219
     title: Theme 219
     track: 219
@@ -1254,3 +1254,103 @@ database:
     name_old: Theme_220
     title: Theme 220
     track: 220
+  - artist: ''
+    name_new: 221 Theme 221 (Unassigned)
+    name_old: Theme_221
+    title: Theme 221
+    track: 221
+  - artist: ''
+    name_new: 222 Theme 222 (Unassigned)
+    name_old: Theme_222
+    title: Theme 222
+    track: 222
+  - artist: ''
+    name_new: 223 Theme 223 (Unassigned)
+    name_old: Theme_223
+    title: Theme 223
+    track: 223
+  - artist: ''
+    name_new: 224 Theme 224 (Unassigned)
+    name_old: Theme_224
+    title: Theme 224
+    track: 224
+  - artist: ''
+    name_new: 225 Theme 225 (Unassigned)
+    name_old: Theme_225
+    title: Theme 225
+    track: 225
+  - artist: ''
+    name_new: 226 Theme 226 (Unassigned)
+    name_old: Theme_226
+    title: Theme 226
+    track: 226
+  - artist: ''
+    name_new: 227 Theme 227 (Unassigned)
+    name_old: Theme_227
+    title: Theme 227
+    track: 227
+  - artist: ''
+    name_new: 228 Theme 228 (Unassigned)
+    name_old: Theme_228
+    title: Theme 228
+    track: 228
+  - artist: ''
+    name_new: 229 Theme 229 (Unassigned)
+    name_old: Theme_229
+    title: Theme 229
+    track: 229
+  - artist: ''
+    name_new: 230 Theme 230 (Unassigned)
+    name_old: Theme_230
+    title: Theme 230
+    track: 230
+  - artist: ''
+    name_new: 231 Theme 231 (Unassigned)
+    name_old: Theme_231
+    title: Theme 231
+    track: 231
+  - artist: ''
+    name_new: 232 Theme 232 (Unassigned)
+    name_old: Theme_232
+    title: Theme 232
+    track: 232
+  - artist: ''
+    name_new: 233 Theme 233 (Unassigned)
+    name_old: Theme_233
+    title: Theme 233
+    track: 233
+  - artist: ''
+    name_new: 234 Theme 234 (Unassigned)
+    name_old: Theme_234
+    title: Theme 234
+    track: 234
+  - artist: ''
+    name_new: 235 Theme 235 (Unassigned)
+    name_old: Theme_235
+    title: Theme 235
+    track: 235
+  - artist: ''
+    name_new: 236 Theme 236 (Unassigned)
+    name_old: Theme_236
+    title: Theme 236
+    track: 236
+  - artist: ''
+    name_new: 237 Theme 237 (Unassigned)
+    name_old: Theme_237
+    title: Theme 237
+    track: 237
+  - artist: ''
+    name_new: 238 Theme 238 (Unassigned)
+    name_old: Theme_238
+    title: Theme 238
+    track: 238
+  - artist: ''
+    name_new: 239 Theme 239 (Unassigned)
+    name_old: Theme_239
+    title: Theme 239
+    track: 239
+  - artist: ''
+    name_new: 240 Theme 240 (Unassigned)
+    name_old: Theme_240
+    title: Theme 240
+    track: 240

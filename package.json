@@ -4,6 +4,7 @@
   "description": "Extract BGM files from MediaPatch directory of Blue Archive JP",
   "main": "index.mjs",
   "scripts": {
+    "check-update": "npx --yes npm-check-updates",
     "convert": "node ./index.mjs convert",
     "sort": "node ./index.mjs sort",
     "tag": "node ./index.mjs tag"
@@ -23,10 +24,10 @@
   },
   "homepage": "https://github.com/TetraTheta/BlueArchiveSoundSorter#readme",
   "devDependencies": {
-    "eslint": "^8.55.0"
+    "eslint": "^8.57.0"
   },
   "dependencies": {
-    "commander": "^11.1.0",
+    "commander": "^12.0.0",
     "js-yaml": "^4.1.0",
     "natural-orderby": "^3.0.2",
     "node-id3": "^0.2.6"
